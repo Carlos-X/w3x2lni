@@ -14,3 +14,14 @@
 * 转换doo, w3s, w3r等文件
 * 新UI
 * 完善文档
+
+## 如何编译
+
+ * [luamake](https://github.com/actboy168/luamake/commit/7e995d806fe6c1a95b8557d2d32feb61e9597644) ``` is need to compile this commit ```
+
+``` bash
+    git clone https://github.com/Carlos-X/w3x2lni
+    cd w3x2lni
+    git submodule update --init
+    $ luamake
+```
